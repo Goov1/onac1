@@ -1,5 +1,5 @@
 # made by Goov.
-# ver 1.0 RELEASEs.
+# ver 1.0 RELEASE.
 from random import *
 import time
 import sys
